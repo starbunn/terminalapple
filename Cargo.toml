@@ -7,3 +7,4 @@ edition = "2018"
 
 [dependencies]
 rodio = "0.14.0"
+ytd-rs = "0.1.6"
